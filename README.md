@@ -10,11 +10,11 @@ Welcome to StockInsights. Your one stop shop for all things stock related. Our a
 ### HOW TO USE?
 
 At first glance of our website you are greeted with a word cloud which contains the most searched words of the past seven days in relation to the Australian markets. This is designed to give you ideas about which company or industry you would like to research.   
-<p align="center"><img src='' width = 80% >https://github.com/LynHJ/FlaskApp-StockInsights/blob/3b5bab0d90dccd657bd2f3a60d95c210f959f64a/Resources/HomePage.png</p>    
+<p align="center"><img src='https://github.com/LynHJ/FlaskApp-StockInsights/blob/3b5bab0d90dccd657bd2f3a60d95c210f959f64a/Resources/HomePage.png' width = 80% ></p>    
 Once you have decided which company to search, simply enter it into the search bar. We then return the price of the stock and it’s increase or decrease in price since the previous day's closing price, the historic pirce which can be viewed from three months to five years as well as a detailed description of the company. Below the description is a view of the assets and liabilities for the past four years which change in size in accordance to the increase or decrease of the value of the business.    
-<p align="center"><img src='' width = 50% >https://github.com/LynHJ/FlaskApp-StockInsights/blob/3b5bab0d90dccd657bd2f3a60d95c210f959f64a/Resources/DashBoard.png</p>   
+<p align="center"><img src='https://github.com/LynHJ/FlaskApp-StockInsights/blob/3b5bab0d90dccd657bd2f3a60d95c210f959f64a/Resources/DashBoard.png' width = 50% ></p>   
 If you would like to keep your eye on this stock, simply click the <button>Add To My List</button>. This saves the searched stock in your <strong>“My List”</strong> menu. It is saved there for future reference, containing the price of when it was added, as well as the date.    
-<p align="center"><img src='' width = 80% >https://github.com/LynHJ/FlaskApp-StockInsights/blob/3b5bab0d90dccd657bd2f3a60d95c210f959f64a/Resources/MyList.png</p>    
+<p align="center"><img src='https://github.com/LynHJ/FlaskApp-StockInsights/blob/3b5bab0d90dccd657bd2f3a60d95c210f959f64a/Resources/MyList.png' width = 80% ></p>    
 
 ### WHO ARE WE?
 StockInsights was created by three budding data analysts with a background in finance and a keen interest in the movements of the markets.  
