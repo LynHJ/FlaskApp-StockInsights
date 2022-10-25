@@ -34,14 +34,13 @@ Rajiv’s strong IT background, paired with his love of cryptocurrency has mould
 Nick has spent the past ten years in international education, where he was able to use his love of teaching and exploring cultures into a profession. It is his love of problem solving and numbers has led him down the data analytics path.     
     
 ### Summary: 
-
 This group project has been a great venture for us all, as it has allowed us to revise and put into action our newly gained data analytic skills which we have precured over the past few months. It has allowed us to find our strengths and weaknesses within all the new languages and libraries that we have learnt, which then allowed us to turn to each other and ask/ give support and guidance.  
-
+  
 We believe that we have filled in many gaps of knowledge needed to make us better data analysts, as well as making us better collaborators within a group environment.  
-
-In this project, we encountered many coding-aspect issues. For example, one of the functions in javascript that got an error would terminate the execution of another function. We then tested both of the functions indivisually and ended out with no error. Therefore, we came up with an idea by putting two functions into two javascript files. Another example is that we realise python libraries have their own limitations. At that time When we were building up a Flask app, it got an error even we had run through all the codes in the jupyter notebook successfully before implementing scripts into the Flask app. Then we knew that we might not get data when we use yfinanace - python library for sourcing stock's historical data.  
-
-Overall, this team project boosts us to another level no matter our data analytic skills or the skill of critial thinking.
+ 
+In this project, we encountered many coding-aspect issues. For example, one of the functions in javascript that got an error would terminate the execution of another function. We then tested both of the functions individually and ended out with no error. Therefore, we came up with an idea by putting two functions into two javascript files. Another example is that we realise python libraries have their own limitations. At that time When we were building up a Flask app, it got an error even though we had run through all the codes in the jupyter notebook successfully before implementing scripts into the Flask app. Then we knew that we might not get data when we use yfinanace - python library for sourcing stock's historical data.  
+  
+Overall, this team project boosts us to another level no matter our data analytic skills or the skill of critical thinking.  
 
 
 ## Content:
