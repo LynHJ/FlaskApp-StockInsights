@@ -13,18 +13,18 @@ At first glance of our website you are greeted with a word cloud which contains 
 <p align="center"><img src='https://github.com/LynHJ/FlaskApp-StockInsights/blob/77964ff22983ce33abcf446899d5c2d7bde6af41/Resources/HomePage.png' width = 80% ></p>    
 Once you have decided which company to search, simply enter it into the search bar. We then return the price of the stock and it’s increase or decrease in price since the previous day's closing price, the historic pirce which can be viewed from three months to five years as well as a detailed description of the company. Below the description is a view of the assets and liabilities for the past four years which change in size in accordance to the increase or decrease of the value of the business.    
 <img src='https://github.com/LynHJ/FlaskApp-StockInsights/blob/77964ff22983ce33abcf446899d5c2d7bde6af41/Resources/DashBoard2.png' ><img src='https://github.com/LynHJ/FlaskApp-StockInsights/blob/77964ff22983ce33abcf446899d5c2d7bde6af41/Resources/DashBoard1.png'>       
-If you would like to keep your eye on this stock, simply click the <button>Add To My List</button>. This saves the searched stock in your <strong>“My List”</strong> menu. It is saved there for future reference, containing the price of when it was added, as well as the date.      
+If you would like to keep your eye on this stock, simply click the !\[my badge\](https://badgen.net/badge/"Add To My List" /"Click"/:color?icon=). This saves the searched stock in your <strong>“My List”</strong> menu. It is saved there for future reference, containing the price of when it was added, as well as the date.      
 <p align="center"><img src='https://github.com/LynHJ/FlaskApp-StockInsights/blob/77964ff22983ce33abcf446899d5c2d7bde6af41/Resources/MyList.png' width = 80% ></p>      
 
 ### WHO ARE WE?
 StockInsights was created by three budding data analysts with a background in finance and a keen interest in the movements of the markets.  
    
-Lin is a multi-lingual analyst with a great thirst for financial and analytical knowledge. When he isn’t buried deep in code, he explores the other side of his mind by creating culinary oriental delights.   
+Lin is a multi-lingual analyst with a great thirst for financial and analytical knowledge. When he isn’t buried deep in code, he explores the other side of his mind by creating culinary oriental delights.  
+ 
 Rajiv’s strong IT background, paired with his love of cryptocurrency has moulded him into an analyst with a strong eye for detail.  
      
 Nick has spent the past ten years in international education, where he was able to use his love of teaching and exploring cultures into a profession. It is his love of problem solving and numbers has led him down the data analytics path.     
     
-
 ### Summary: 
 
 
