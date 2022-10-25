@@ -46,6 +46,7 @@ Project
 ├── README.md
 ├── Resources
 │   ├── DashBoard.png
+│   ├── FlaskStructure.png
 │   ├── HomePage.png
 │   ├── MyList.png
 │   └── wordCloudBase.png
