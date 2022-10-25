@@ -33,7 +33,7 @@ Rajiv’s strong IT background, paired with his love of cryptocurrency has mould
      
 Nick has spent the past ten years in international education, where he was able to use his love of teaching and exploring cultures into a profession. It is his love of problem solving and numbers has led him down the data analytics path.     
     
-### Summary: 
+### Summary:
 
 This group project has been a great venture for us all, as it has allowed us to revise and put into action our newly gained data analytic skills which we have precured over the past few months. It has allowed us to find our strengths and weaknesses within all the new languages and libraries that we have learnt, which then allowed us to turn to each other and ask/ give support and guidance.  
 
