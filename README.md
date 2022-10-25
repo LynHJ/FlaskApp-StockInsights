@@ -81,6 +81,10 @@ Project
     └── stockholder.html
 ```
 
+## Installation
+
+pip install -r requirements.txt
+
 
 ## Reference
 
