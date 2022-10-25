@@ -77,7 +77,8 @@ Project
 9. https://www.digitalocean.com/community/tutorials/how-to-use-flask-sqlalchemy-to-interact-with-databases-in-a-flask-application  
 10. https://www.digitalocean.com/community/tutorials/how-to-use-mongodb-in-a-flask-application  
 11. https://www.plus2net.com/python/tkinter-sqlite-delete.php  
-12. https://www.shouxicto.com/article/5843.html  
+12. https://www.shouxicto.com/article/5843.html
+13. https://tobiasahlin.com/moving-letters/    
 
 
 
