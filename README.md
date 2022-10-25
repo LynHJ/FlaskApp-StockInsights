@@ -13,7 +13,7 @@ At first glance of our website you are greeted with a word cloud which contains 
 <p align="center"><img src='https://github.com/LynHJ/FlaskApp-StockInsights/blob/77964ff22983ce33abcf446899d5c2d7bde6af41/Resources/HomePage.png' width = 80% ></p>    
 Once you have decided which company to search, simply enter it into the search bar. We then return the price of the stock and it’s increase or decrease in price since the previous day's closing price, the historic pirce which can be viewed from three months to five years as well as a detailed description of the company. Below the description is a view of the assets and liabilities for the past four years which change in size in accordance to the increase or decrease of the value of the business.    
 <img src='https://github.com/LynHJ/FlaskApp-StockInsights/blob/77964ff22983ce33abcf446899d5c2d7bde6af41/Resources/DashBoard2.png' ><img src='https://github.com/LynHJ/FlaskApp-StockInsights/blob/77964ff22983ce33abcf446899d5c2d7bde6af41/Resources/DashBoard1.png'>       
-If you would like to keep your eye on this stock, simply click the ```Add To My List```. This saves the searched stock in your <strong>“My List”</strong> menu. It is saved there for future reference, containing the price of when it was added, as well as the date.      
+If you would like to keep your eye on this stock, simply click the ``` Add To My List ```. This saves the searched stock in your <strong>“My List”</strong> menu. It is saved there for future reference, containing the price of when it was added, as well as the date.      
 <p align="center"><img src='https://github.com/LynHJ/FlaskApp-StockInsights/blob/77964ff22983ce33abcf446899d5c2d7bde6af41/Resources/MyList.png' width = 80% ></p>      
 
 ### WHO ARE WE?
