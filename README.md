@@ -9,7 +9,7 @@ Welcome to StockInsights. Your one stop shop for all things stock related. Our a
 
 ### HOW TO USE?
 
-<p align="center"><img src='https://github.com/LynHJ/FlaskApp-StockInsights/blob/11561a35640147bd8733131b54bc900e8b3a8b3c/Resources/FlaskStructure.png' width = 80% ></p>    
+<p align="center"><img src='https://github.com/LynHJ/FlaskApp-StockInsights/blob/85a9f1305472b60546d2cc7424b8d56c7cc08874/Resources/FlaskStructure.png' width = 80% ></p>    
 
 At first glance of our website you are greeted with a word cloud which contains the most searched words of the past seven days in relation to the Australian markets. This is designed to give you ideas about which company or industry you would like to research.    
  
