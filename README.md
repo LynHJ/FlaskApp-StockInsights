@@ -1,5 +1,5 @@
 # Stock Insights
-[![](https://img.shields.io/badge/Pillow9.2.0-?style=for-the-badge)](https://lib.rs/crates/redant)
+[![](https://img.shields.io/badge/Pillow9.2.0-black?style=for-the-badge)](https://lib.rs/crates/redant)
 [![](https://img.shields.io/badge/matplotlib3.2.2-yellow?style=for-the-badge)](https://lib.rs/crates/redant)
 [![](https://img.shields.io/badge/numpy1.21.5-yellow?style=for-the-badge)](https://lib.rs/crates/redant)
 [![](https://img.shields.io/badge/pandas_datareader0.10.0-yellow?style=for-the-badge)](https://lib.rs/crates/redant)
