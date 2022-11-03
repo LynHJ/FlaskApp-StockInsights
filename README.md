@@ -1,14 +1,17 @@
 # Stock Insights
+
 ![](https://img.shields.io/badge/Pillow-9.2.0-informational?style=plastic&logo=appveyor)
-[![](https://img.shields.io/badge/matplotlib3.2.2-informational?style=for-the-badge)
-[![](https://img.shields.io/badge/numpy1.21.5-informational?style=for-the-badge)]
-[![](https://img.shields.io/badge/pandas_datareader0.10.0-informational?style=for-the-badge)
-[![](https://img.shields.io/badge/plotly5.10.0-informational?style=for-the-badge)
-[![](https://img.shields.io/badge/pymongo3.12.0-informational?style=for-the-badge)]
-[![](https://img.shields.io/badge/pytrends4.8.0-informational?style=for-the-badge)]
-[![](https://img.shields.io/badge/requests2.28.1-informational?style=for-the-badge)]
-[![](https://img.shields.io/badge/wordcloud1.8.2.2-informational?style=for-the-badge)]
-[![](https://img.shields.io/badge/yfinance0.1.74-informational?style=for-the-badge)]
+![](https://img.shields.io/badge/bs4-0.0.1-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/matplotlib-3.2.2-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/numpy-1.21.5-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/pandas-1.3.5-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/pandas_datareader-0.10.0-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/plotly-5.10.0-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/pymongo-3.12.0-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/pytrends-4.8.0-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/requests-2.28.1-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/wordcloud-1.8.2.2-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/yfinance-0.1.74-informational?style=plastic&logo=appveyor)
 
 
 ![alt text](https://github.com/LynHJ/FlaskApp-StockInsights/blob/77964ff22983ce33abcf446899d5c2d7bde6af41/Resources/NavBar.png)
