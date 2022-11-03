@@ -1,11 +1,11 @@
 # Stock Insights
-[![](https://img.shields.io/badge/Pillow9.2.0-yellow?style=for-the-badge)](https://lib.rs/crates/redant)
+[![](https://img.shields.io/badge/Pillow9.2.0?style=for-the-badge)](https://lib.rs/crates/redant)
 [![](https://img.shields.io/badge/matplotlib3.2.2-yellow?style=for-the-badge)](https://lib.rs/crates/redant)
 [![](https://img.shields.io/badge/numpy1.21.5-yellow?style=for-the-badge)](https://lib.rs/crates/redant)
 [![](https://img.shields.io/badge/pandas_datareader0.10.0-yellow?style=for-the-badge)](https://lib.rs/crates/redant)
 [![](https://img.shields.io/badge/plotly5.10.0-yellow?style=for-the-badge)](https://lib.rs/crates/redant)
 [![](https://img.shields.io/badge/pymongo3.12.0-yellow?style=for-the-badge)](https://lib.rs/crates/redant)
-[![](https://img.shields.io/badge/pytrends4.8.0--yellow?style=for-the-badge)](https://lib.rs/crates/redant)
+[![](https://img.shields.io/badge/pytrends4.8.0-yellow?style=for-the-badge)](https://lib.rs/crates/redant)
 [![](https://img.shields.io/badge/requests2.28.1-yellow?style=for-the-badge)](https://lib.rs/crates/redant)
 [![](https://img.shields.io/badge/wordcloud1.8.2.2-yellow?style=for-the-badge)](https://lib.rs/crates/redant)
 [![](https://img.shields.io/badge/yfinance0.1.74-yellow?style=for-the-badge)](https://lib.rs/crates/redant)
