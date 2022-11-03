@@ -1,8 +1,8 @@
 # Stock Insights
-[![](https://img.shields.io/badge/Pillow == 9.2.0-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
-[![](https://img.shields.io/badge/matplotlib == 3.2.2-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
-[![](https://img.shields.io/badge/numpy == 1.21.5-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
-[![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
+[![](https://img.shields.io/badge/Pillow9.2.0-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
+[![](https://img.shields.io/badge/matplotlib==3.2.2 -lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
+[![](https://img.shields.io/badge/numpy==1.21.5-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
+[![](https://img.shields.io/badge/pandas==1.3.5-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
 
 
 bs4 == 0.0.1
