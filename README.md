@@ -1,11 +1,11 @@
 # Stock Insights
 
+![](https://img.shields.io/badge/Flask-2.2.2-informational?style=plastic&logo=appveyor)
 ![](https://img.shields.io/badge/Pillow-9.2.0-informational?style=plastic&logo=appveyor)
 ![](https://img.shields.io/badge/bs4-0.0.1-informational?style=plastic&logo=appveyor)
 ![](https://img.shields.io/badge/matplotlib-3.2.2-informational?style=plastic&logo=appveyor)
 ![](https://img.shields.io/badge/numpy-1.21.5-informational?style=plastic&logo=appveyor)
 ![](https://img.shields.io/badge/pandas-1.3.5-informational?style=plastic&logo=appveyor)
-![](https://img.shields.io/badge/pandas_datareader-0.10.0-informational?style=plastic&logo=appveyor)
 ![](https://img.shields.io/badge/plotly-5.10.0-informational?style=plastic&logo=appveyor)
 ![](https://img.shields.io/badge/pymongo-3.12.0-informational?style=plastic&logo=appveyor)
 ![](https://img.shields.io/badge/pytrends-4.8.0-informational?style=plastic&logo=appveyor)
